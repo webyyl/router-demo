@@ -1,6 +1,24 @@
-# router-demo
+# Digital product platform
 
-> A Vue.js project
+> This is a simple digital product e-commerce platform
+##组件开发项目
+*   首页
+	* 产品列表
+	* 新闻列表
+	* 幻灯片切换
+	* 登录注册弹窗
+	* 登录表单
+	* 关于我们弹窗
+*   详情页
+	* 边栏产品导航sidebar
+	* 产品标题和介绍
+	* 确认购买弹窗
+	* 银行选择组件
+	* 支付状态检查
+*   列表页	
+	* 列表筛选项
+	* 表格渲染
+	* 日期选择组件
 
 ## Build Setup
 
