@@ -1,7 +1,9 @@
 # Digital product platform
 
 > This is a simple digital product e-commerce platform
-##组件开发项目
+
+## 组件开发项目
+
 *   首页
 	* 产品列表
 	* 新闻列表
@@ -19,6 +21,15 @@
 	* 列表筛选项
 	* 表格渲染
 	* 日期选择组件
+
+## 技术
+
+* Layout底层布局实现
+* 通过vue-resource获取列表数据
+* Vue-router子路由实现边栏导航
+* 通过ajax请求确认购买状态
+* 幻灯片组件的实现
+* 弹窗组件的实现
 
 ## Build Setup
 
